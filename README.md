@@ -42,4 +42,3 @@ pip install numpy scipy pandas matplotlib seaborn
 
 ---
 
-## Authors
