@@ -43,5 +43,3 @@ pip install numpy scipy pandas matplotlib seaborn
 ---
 
 ## Authors
-
-Emidio Grillo & Luca Nudo
